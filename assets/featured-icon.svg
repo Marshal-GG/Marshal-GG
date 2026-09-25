@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="featuredGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1">
+        <animate attributeName="stop-color" values="#a855f7;#ec4899;#a855f7" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1">
+        <animate attributeName="stop-color" values="#ec4899;#a855f7;#ec4899" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <!-- Star: outline stays, inner fill pulses -->
+  <path d="M12 3.5 L14.23 9.43 L20.56 9.72 L15.61 13.67 L17.29 19.78 L12 16.3 L6.71 19.78 L8.39 13.67 L3.44 9.72 L9.77 9.43 Z"
+        fill="url(#featuredGrad)" fill-opacity="0.15"
+        stroke="url(#featuredGrad)" stroke-width="2" stroke-linejoin="round">
+    <animate attributeName="fill-opacity" values="0.1;0.5;0.1" dur="2s" repeatCount="indefinite"/>
+  </path>
+</svg>
