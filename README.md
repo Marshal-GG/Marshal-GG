@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Rupam&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%C2%B7%20Building%20as%20MarshalX&descSize=16&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=MarshalX&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=by%20Rupam%20%C2%B7%20Full-stack%20%26amp%3B%20AI%20Developer&descSize=16&descAlignY=60" width="100%"/>
 </div>
 
 <p align="center">
@@ -39,28 +39,9 @@
 </p>
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>LAN streaming</b><br/>
-      mDNS auto-discovery, HLS adaptive bitrate, direct playback and sub-second seek
-    </td>
-    <td width="50%" valign="top">
-      <b>Internet streaming</b><br/>
-      WebRTC peer-to-peer with STUN/TURN fallback, end-to-end encrypted, no port forwarding
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Smart library</b><br/>
-      TMDB metadata and posters, with movies, TV and music organised automatically
-    </td>
-    <td width="50%" valign="top">
-      <b>Native everywhere</b><br/>
-      Apps for iOS, Android, Windows, macOS and Linux, plus a single native server binary
-    </td>
-  </tr>
-</table>
+  <a href="https://fluxora.marshalx.dev">
+    <img src="https://raw.githubusercontent.com/Marshal-GG/Marshal-GG/main/assets/cards/fluxora-features.svg" width="100%" alt="Fluxora features: LAN streaming, stream anywhere, smart library, native apps"/>
+  </a>
 </div>
 
 <p align="center">
@@ -97,51 +78,25 @@
 
 <br/>
 
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Marshal-GG/omni-bridge-translator">Omni Bridge Translator</a></h4>
-      Real-time speech translation on your desktop. It captures system or mic audio, translates it live and shows it as a transparent overlay.<br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square" alt="Whisper"/>
-      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
-      <br/><br/>
-      <a href="https://github.com/Marshal-GG/omni-bridge-translator">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://marshalx.dev">Marshal.Dev</a></h4>
-      My portfolio at marshalx.dev: a Flutter web app with a signed-in admin console, where all content is managed live through Firebase.<br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
-      <img src="https://img.shields.io/badge/BLoC-A855F7?style=flat-square" alt="BLoC"/>
-      <br/><br/>
-      <a href="https://github.com/Marshal-GG/Marshal.Dev">Code</a> · <a href="https://marshalx.dev">Live site</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Marshal-GG/Synthetic-Fashion-GAN">Synthetic Fashion GAN</a></h4>
-      A DCGAN that generates synthetic e-commerce fashion images (T-shirts, sneakers, bags) from random noise, for data augmentation.<br/><br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio"/>
-      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-      <br/><br/>
-      <a href="https://github.com/Marshal-GG/Synthetic-Fashion-GAN">Code</a> · <a href="https://huggingface.co/spaces/RupamG/Synthetic_Fashion_GAN">Live demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Marshal-GG/Advanced-Image-Captioning-System">Image Captioning System</a></h4>
-      Describes images in plain English using an InceptionV3 encoder and an LSTM decoder, trained on Flickr8k.<br/><br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
-      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-      <br/><br/>
-      <a href="https://github.com/Marshal-GG/Advanced-Image-Captioning-System">Code</a> · <a href="https://huggingface.co/spaces/RupamG/Image_Captioning_System">Live demo</a>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://github.com/Marshal-GG/omni-bridge-translator">
+    <img src="https://raw.githubusercontent.com/Marshal-GG/Marshal-GG/main/assets/cards/omni-bridge-translator.svg" width="48%" alt="Omni Bridge Translator"/>
+  </a>
+  &#160;
+  <a href="https://github.com/Marshal-GG/Marshal.Dev">
+    <img src="https://raw.githubusercontent.com/Marshal-GG/Marshal-GG/main/assets/cards/marshal-dev.svg" width="48%" alt="Marshal.Dev"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Marshal-GG/Synthetic-Fashion-GAN">
+    <img src="https://raw.githubusercontent.com/Marshal-GG/Marshal-GG/main/assets/cards/synthetic-fashion-gan.svg" width="48%" alt="Synthetic Fashion GAN"/>
+  </a>
+  &#160;
+  <a href="https://github.com/Marshal-GG/Advanced-Image-Captioning-System">
+    <img src="https://raw.githubusercontent.com/Marshal-GG/Marshal-GG/main/assets/cards/image-captioning.svg" width="48%" alt="Image Captioning System"/>
+  </a>
+</p>
 
 <br/>
 
