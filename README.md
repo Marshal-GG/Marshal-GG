@@ -2,20 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=MarshalX&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=by%20Rupam%20%C2%B7%20Full-stack%20%26amp%3B%20AI%20Developer&descSize=16&descAlignY=60" width="100%"/>
 </div>
 
-<p align="center">
-  Hi, I'm <b>Rupam</b>, also known as <b>Marshal</b>. I build and ship my projects as <b>MarshalX</b>.<br/>
-  I love building things that solve real problems. From AI models to full-stack mobile and desktop apps,<br/>
-  I enjoy taking an idea all the way from architecture to a working product.
-</p>
-
-<p align="center">
-  <b>Now building</b> <a href="https://fluxora.marshalx.dev">Fluxora</a>
-  &#160;·&#160;
-  <b>Based in</b> New Delhi, India
-  &#160;·&#160;
-  <b>Portfolio</b> <a href="https://marshalx.dev">marshalx.dev</a>
-</p>
-
 <br/>
 
 <h3 align="center">
@@ -32,41 +18,11 @@
   </a>
 </div>
 
-<p align="center">
-  <b>Self-hosted media streaming for movies, TV, music and documents, on every device you own.</b><br/>
-  Your PC is the server and your phone, laptop and TV are the clients. LAN-fast at home,<br/>
-  seamless over the internet through WebRTC, with no cloud account and no tracking.
-</p>
-
 <div align="center">
-  <a href="https://fluxora.marshalx.dev">
+  <a href="https://github.com/Marshal-GG/Fluxora-Personal-Streaming-Platform">
     <img src="https://raw.githubusercontent.com/Marshal-GG/Marshal-GG/main/assets/cards/fluxora-features.svg" width="100%" alt="Fluxora features: LAN streaming, stream anywhere, smart library, native apps"/>
   </a>
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/>
-  <img src="https://img.shields.io/badge/HLS-A855F7?style=flat-square" alt="HLS"/>
-</p>
-
-<p align="center">
-  <a href="https://fluxora.marshalx.dev">
-    <img src="https://img.shields.io/badge/Website-fluxora.marshalx.dev-A855F7?style=for-the-badge" alt="Fluxora website"/>
-  </a>
-  &#160;
-  <a href="https://fluxora.marshalx.dev/#download">
-    <img src="https://img.shields.io/badge/Download-Free-22D3EE?style=for-the-badge" alt="Download Fluxora"/>
-  </a>
-  &#160;
-  <a href="https://github.com/Marshal-GG/Fluxora-Personal-Streaming-Platform">
-    <img src="https://img.shields.io/badge/GitHub-Fluxora-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fluxora on GitHub"/>
-  </a>
-</p>
 
 <br/>
 
